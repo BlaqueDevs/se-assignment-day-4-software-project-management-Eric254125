@@ -26,7 +26,7 @@ Accurate Cost Estimation – Use historical data, industry benchmarks, and exper
 Define Clear Project Scope – Scope creep (uncontrolled project expansion) is a major cause of cost overruns. Clearly define and control changes.
 Use Agile Budgeting – Agile methodologies allow for incremental budget adjustments, ensuring flexibility while maintaining financial control.
 Implement Cost Tracking Tools – Use tools like Microsoft Project, Jira, or Trello to monitor expenses in real time.
-Regular Financial Reviews – Conduct frequent budget reviews to identify potential overruns early and take corrective action.
+Regular Financial Reviews – Conduct frequent budget reviews to identify potential overruns early and take corrective action. 
 
 
 
